@@ -5,7 +5,7 @@ require 'mailgun-ruby'
 
 #You only modify @courseNum and @email
 @courseNum = "ENTER THE DESIRED COURSE CODE" #ex. CMSC 15400
-@email = "ENTER YOUR EMAIL HERE"
+@email = "ENTER YOUR EMAIL HERE"	     #ex. tanjihui@uchicago.edu
 
 def launchBrowser(inputted_course_num)
 
