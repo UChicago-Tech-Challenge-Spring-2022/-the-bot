@@ -1,5 +1,7 @@
 # Description
-This program is for UChicago students to get email notifications as soon as a seat becomes available in a full course. To set up, simply follow the instructions below.
+This program is for UChicago students to get email notifications as soon as a seat becomes available in a full course. It's a part of the 2022 UChicago Tech Community Challenge project led by Todd Tan, Yilan Liu, Patricia Zhou, Mike Wu, and Yuanyi Zhang.
+
+To set up, simply follow the instructions below.
 
 # Instructions 
 1. Install Ruby on Rails onto your local machine via https://guides.rubyonrails.org/v5.1/getting_started.html.
