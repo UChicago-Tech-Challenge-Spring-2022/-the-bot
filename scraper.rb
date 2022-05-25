@@ -5,7 +5,7 @@ require 'mailgun-ruby'
 
 @courseNum = "COURSE CODE" #ex. CMSC 15400
 @email = "youremail@sender.com"
-
+@key = "ENTER api-key HERE"
 def launchBrowser(inputted_course_num)
 
 	options = Selenium::WebDriver::Chrome::Options.new
@@ -89,7 +89,7 @@ def query_class_availibility(inputted_course_num)
 end
 
 def send_email()
-	mg_api_key = "api-key" #please retrieve api key from website
+	mg_api_key = @key #please retrieve api key from the website
 	mg_sending_domain = "mg.appdevproject.com"
 
 	mg_client = Mailgun::Client.new(mg_api_key)
