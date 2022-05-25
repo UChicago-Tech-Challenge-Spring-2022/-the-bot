@@ -1,3 +1,6 @@
+# Description
+This program is for UChicago students to get email notifications as soon as a seat becomes available in a full course. To set up, simply follow the instructions below.
+
 # Instructions 
 1. Install Ruby on Rails onto your local machine via https://guides.rubyonrails.org/v5.1/getting_started.html.
 2. Download chrome webdriver onto your local machine via https://chromedriver.chromium.org/downloads.
