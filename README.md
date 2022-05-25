@@ -11,4 +11,4 @@ To set up, simply follow the instructions below.
 ```
  ruby scraper.rb
 ``` 
-Now you should receive feedback in the terminal as it runs!
+   Now you should receive feedback in the terminal as it runs!
