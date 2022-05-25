@@ -3,8 +3,9 @@ require 'selenium'
 require 'selenium-webdriver'
 require 'mailgun-ruby'
 
-@courseNum = "COURSE CODE" #ex. CMSC 15400
-@email = "youremail@sender.com"
+#You only modify @courseNum and @email
+@courseNum = "ENTER THE DESIRED COURSE CODE" #ex. CMSC 15400
+@email = "ENTER YOUR EMAIL HERE"
 
 def launchBrowser(inputted_course_num)
 
