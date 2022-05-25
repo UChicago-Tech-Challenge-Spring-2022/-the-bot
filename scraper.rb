@@ -88,7 +88,7 @@ def query_class_availibility(inputted_course_num)
 end
 
 def send_email()
-	mg_api_key = "key-6e8f628f8c07bb415ef31325c2207dbf"
+	mg_api_key = "api-key" #please get api-key from website
 	mg_sending_domain = "mg.appdevproject.com"
 
 	mg_client = Mailgun::Client.new(mg_api_key)
