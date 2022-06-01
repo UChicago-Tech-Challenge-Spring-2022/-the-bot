@@ -1,5 +1,5 @@
 # Description
-The notification bot is for UChicago students to get email notifications as soon as a seat becomes available in a full course. It is part of the 2022 UChicago Tech Community Challenge project led by Todd Tan, Yilan Liu, Patricia Zhou, Mike Wu, and Yuanyi Zhang.
+The notification bot is for UChicago students to get email notifications as soon as a seat becomes available in a full course.
 
 To set up, simply follow the instructions below.
 
