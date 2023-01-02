@@ -1,5 +1,5 @@
 # Update
-This standalone feature is now fully integrated into our web applcation! However, you could still use it following the instruction below. If you want to try it on our web application, navigate to the uchicago-cs-course-advising-website repo under this organization.
+This standalone feature is now fully integrated into our web applcation! If you want to try it on our web application, navigate to the uchicago-cs-course-advising-website repo under this organization.
 
 # Description
 The notification bot is for UChicago students to get email notifications as soon as a seat becomes available in a full course.
